@@ -1,0 +1,3 @@
+id,roof,roof_material,type_of_cargo_supported,external_length,external_width,external_height,internal_length,internal_width,internal_height,overhang_length,overhang_width,overhang_height,material,tare_weight,tonnage,container_description,operator_id,carrier_id
+65a12da2-62db-4678-830d-86bfdeb4ade0,Open,Marble,TemperatureControlled,14,15,16,14,15,16,14,15,16,Wood,1200,4,Sturdy container with good capacity,,
+2383b1fe-801a-4234-b4fd-d86ce04ec4f2,Open,Marble,AirConditioned,14,15,16,14,15,16,14,15,16,Wood,1200,4,Sturdy container with great capacity,,

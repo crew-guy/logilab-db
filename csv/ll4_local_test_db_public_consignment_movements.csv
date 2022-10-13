@@ -1,0 +1,2 @@
+id,sequence_hop,position_in_layer,start_timestamp,end_timestamp,container_id,start_coord_id,end_coord_id,start_address_id,end_address_id,x,y,z,status,wall,layer
+62e16447-af87-4b02-9add-8a9830008961,355,12,2022-04-03 17:59:51.585128 +00:00,2022-04-03 17:59:25.307190 +00:00,,,,,,12,124.42,60,54.13,12,12.2

@@ -1,0 +1,3 @@
+issue_type,timestamp,description_of_issue,path_to_image,date_issue_resolution,container_id,id
+business-critical,2022-04-03 15:13:37.650153,this is a bad issue,https://unsplash.it/500,2022-04-03 15:13:37.650153,,7eea8bd9-232c-4572-b96b-e61a415d6232
+severe,2022-04-03 15:15:07.815680,this is a bad issue,https://unsplash.it/500,2022-04-03 15:15:07.815680,,86744d22-15d3-4474-a4b2-d3b4b5279e32
